@@ -1,2 +1,2 @@
 # MultiplayerBossSpectator
-Multiplayer Boss Spectator, a mod that lets you spectate players and bosses during bossfights.
+Multiplayer Boss Spectator, a tModLoader mod that lets you spectate players and bosses during bossfights.
